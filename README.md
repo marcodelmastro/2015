@@ -26,7 +26,7 @@ For this reason, we have included HW0 in the lab link above.
 
 At that point, homework repositories will be created for you.
 
-## nitial Workflow
+## Initial Workflow
 
 - read hw 0, and do the survey and installations
 - then read the git lab in lab 1 linked from within.
